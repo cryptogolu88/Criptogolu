@@ -1,8 +1,8 @@
-My first file
+ My first file
 # Object file
 *.o
 
 # Ada Library Information
 *.ali
 
-#rules by rules
+# rules by rules
